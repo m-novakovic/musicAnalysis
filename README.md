@@ -135,8 +135,6 @@ The full bibliography is in the paper.
 
 ## Author
 
-**Your Name** · [GitHub profile](https://github.com/your-username)
+**Milena Novakovic** · [GitHub profile](https://github.com/m-novakovic)
 
-## License
 
-Choose a license for the code (for example MIT). The paper is your own writing, so consider "All rights reserved" for it or a Creative Commons license.
